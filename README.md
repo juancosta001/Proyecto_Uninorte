@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # probando
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Proyecto_Uninorte
+Creación de un apartado de perfil de docente para un trabajo de la facultad, realizado con el lenguaje Dart, utilizando fluttter y Android Studio como IDE.
+>>>>>>> 750275051309acb9f0fcf8546319dc9457578991
